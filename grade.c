@@ -3,7 +3,8 @@ get_student_course() {
 }
 get_grade(char *array[]) {
 	//수강하는 과목들의 점수를 얻어오는 함수
-	array사용한다.
+	array사용한다.;
+	array[0]을 통해 접근;
 }
 make_grade_table() {
 	//점수들과 과목을 매치하여 테이블을 만드는 함수
