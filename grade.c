@@ -3,7 +3,7 @@ get_student_course() {
 }
 get_grade() {
 	//수강하는 과목들의 점수를 얻어오는 함수
-	array사용한다.
+	linkedlist사용한다.;
 }
 make_grade_table() {
 	//점수들과 과목을 매치하여 테이블을 만드는 함수
