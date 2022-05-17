@@ -1,7 +1,7 @@
 get_student_course() {
 	//학생이 수강하는 과목들을 알아오는 함수
 }
-get_grade() {
+get_grade(char *array[]) {
 	//수강하는 과목들의 점수를 얻어오는 함수
 	array사용한다.
 }
